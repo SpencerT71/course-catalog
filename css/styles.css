@@ -11,6 +11,22 @@ Body {
 
 /* Content Containers */
 .cd-gallery li {
-    background: blue;
+
     padding: 1em;
+}
+
+/* Grid View */
+
+.grid li.mix {
+
+}
+
+/* List View */
+
+.list li.mix {
+    width: 100%;
+}
+
+.list li.mix p {
+    display: none;
 }
