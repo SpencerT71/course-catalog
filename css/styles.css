@@ -1,1 +1,16 @@
-/* YOUR STYLES */
+/* Typography */
+
+Body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header */
+.cd-header {
+    background: #a10022;
+}
+
+/* Content Containers */
+.cd-gallery li {
+    background: blue;
+    padding: 1em;
+}
